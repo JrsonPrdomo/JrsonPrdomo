@@ -17,6 +17,8 @@
 
 1. Actualmente estoy aprendiendo a programar en Python con la ayuda de Jesus Guzman alias @brujeriatech
 2. En ocaciones veo algunos tutoriales en Youtube o Twitch para seguir aprendiendo a programar 
+3.  Estoy estudian en Oracle One y Alura.
+4.
 
 ```Python
 acerca_de_mi = {
